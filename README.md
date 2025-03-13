@@ -2,9 +2,9 @@
 I’m a Computer Science and Engineering Student at Lehigh University 👩🏽‍💻
 
 I’m currently learning:
-- Programming and Data Structures
-- Discrete Structures and Algorithms
-- Python Foundations
+- Systems Software
+- Design and Analysis of Algorihms
+- Computing Ethics
 
 
 <!---
